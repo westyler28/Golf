@@ -37,7 +37,7 @@ export const games = [
   {
     title: "Delta",
     link: "https://etinnon.github.io/cis376-delta/",
-    author: "Etinnon",
+    author: "Emily Tinnon",
   },
   {
     title: "WNzWGNd",
@@ -64,11 +64,7 @@ export const games = [
     link:  "https://viii21.github.io/dob-facts/",
     author: "Chhavi Chhavi",
   },
-  {
-    title: "Delta",
-    link:  "https://github.com/etinnon/cis376-delta",
-    author: "Emily Tinnon",
-  },
+  
   {
     title: "Dev lab Charlie",
     link:  "https://hunter-mcgriff.github.io/dev-lab-charlie/",
@@ -107,7 +103,7 @@ export const games = [
   {
     title: "Bravo Lab",
     link:  "https://garrettdodd.tech/CIS-376/BRAVO_LAB/index.html",
-    author: "garrett Dodd",
+    author: "Garrett Dodd",
   },
   {
     title: "doge game",
@@ -115,19 +111,19 @@ export const games = [
     author: "Rishi Doreswamy",
   },
   {
-    title: "  ",
-    link: "",
-    author: "",
+    title: "DELTALAB",
+    link: "https://mlittle98.github.io/DELTALAB/",
+    author: "Maggie Little",
   },
   {
-    title: "",
-    link: "",
-    author: "",
+    title: "delta",
+    link: "https://tythomas21.github.io/delta/",
+    author: "Tychicus Thomas",
   },
   {
-    title: "",
-    link: "",
-    author: "",
+    title: "bravo",
+    link: "https://github.com/panhead63/bravo/tree/main",
+    author: "Rachel Thompson",
   },
   {
     title: "",
@@ -139,29 +135,5 @@ export const games = [
     link: "",
     author: "",
   },
-  {
-    title: "",
-    link: "",
-    author: " ",
-  },
-  {
-    title: "  ",
-    link: "",
-    author: " ",
-  },
-  {
-    title: "  ",
-    link: "",
-    author: " ",
-  },
-  {
-    title: "  ",
-    link: "",
-    author: "",
-  },
-  {
-    title: " ",
-    link: "",
-    author: "",
-  },
+  
 ];
