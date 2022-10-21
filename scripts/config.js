@@ -126,9 +126,9 @@ export const games = [
     author: "Rachel Thompson",
   },
   {
-    title: "",
-    link: "",
-    author: "",
+    title: "Echo-Lab",
+    link: "https://github.com/Almostheaven52/Echo-Lab",
+    author: "Zachary Newell",
   },
   {
     title: " ",
