@@ -130,10 +130,6 @@ export const games = [
     link: "https://github.com/Almostheaven52/Echo-Lab",
     author: "Zachary Newell",
   },
-  {
-    title: " ",
-    link: "",
-    author: "",
-  },
+  
   
 ];
